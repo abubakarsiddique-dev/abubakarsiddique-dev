@@ -1,11 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&weight=900&pause=1000&center=true&vCenter=true&width=700&color=000000&lines=Hi%2C+I'm+AbuBakar+Siddique" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&weight=900&pause=1000&center=true&vCenter=true&width=700&color=FFFFFF&lines=Hi%2C+I'm+Abubakar+Siddique" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&weight=900&pause=1000&center=true&vCenter=true&width=700&color=000000&lines=Hi%2C+I'm+AbuBakar+Siddique" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&weight=900&pause=1000&center=true&vCenter=true&width=700&color=000000&lines=Hi%2C+I'm+AbuBakar+Siddique" />
+  </picture>
 </p>
 
-<p align="center"><span style="font-size:16px; color: #333;">Software Engineer | Flutter App Developer | Pakistan</span></p>
+<p align="center">
+  <span>Software Engineer | Flutter App Developer | Pakistan</span>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=550&color=000000&lines=Building+with+Flutter;Creating+real-world+mobile+apps;Always+learning+%26+building" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=550&color=FFFFFF&lines=Building+with+Flutter;Creating+real-world+mobile+apps;Always+learning+%26+building" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=550&color=000000&lines=Building+with+Flutter;Creating+real-world+mobile+apps;Always+learning+%26+building" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=550&color=000000&lines=Building+with+Flutter;Creating+real-world+mobile+apps;Always+learning+%26+building" />
+  </picture>
 </p>
 
 Email Me 👉 ✉️ **abubakar1siddique2@gmail.com** For Collaboration/Project or Anything Else. 😊😊
